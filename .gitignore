@@ -72,3 +72,13 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+components
+Flags
+Images
+App.tsx
+App2.jsx
+CurrencyConvertor.jsx
+BackgroundChanger.jsx
+PasswordValidator.jsx
+RollTheDIce.jsx
